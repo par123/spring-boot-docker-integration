@@ -58,7 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>spring-boot-jpa-docker-integration</finalName>
+		<finalName>spring-boot-docker-integration</finalName>
 	</build>
 
 </project>
